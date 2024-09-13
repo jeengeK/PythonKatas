@@ -16,7 +16,7 @@ _Kata_ is a Japanese word (型 or 形) meaning "form". It refers to a detailed c
 
 
 - [x] `hello_world.py`
-- [ ] `hello_world2.py`
+- [x] `hello_world2.py`
 - [ ] `numbers_division.py`
 - [ ] `personalized_hello_world.py`
 - [ ] `age_message_fix.py`
